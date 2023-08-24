@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: planet-psion-kpd-driver
+Upstream-Contact: Planet Community <>
+Source: https://github.com/planet-community/planet-psion-kpd-driver
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
